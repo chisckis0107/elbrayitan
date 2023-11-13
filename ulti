@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sac Fenix</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div id="portada">
+<img src="ruta_de_tu_imagen_1.png">
+</div>
+<button id="btn1">boton 1 </button>
+<button id="btn2">boton 2 </button>
+<button id="btn3">boton 3 </button>
+<button id="btn4">boton 4 </button>
+<button id="btn5">boton 5 </button>
+<button id="btn6">boton 6 </button>
+<div id="contenido">
+<img src="ruta_de_tu_imagen_2.jpg">
+</div>
+<script>
+document.getElementById('btn1').addEventListener('click', function(){
+   document.getElementById('contenido').scrollIntoView();
+});
+document.getElementById('btn2').addEventListener('click', function(){
+   document.getElementById('contenido').scrollIntoView();
+});
+document.getElementById('btn3').addEventListener('click', function(){
+   document.getElementById('contenido').scrollIntoView();
+});
+document.getElementById('btn4').addEventListener('click', function(){
+   document.getElementById('contenido').scrollIntoView();
+});
+document.getElementById('btn5').addEventListener('click', function(){
+   document.getElementById('contenido').scrollIntoView();
+});
+document.getElementById('btn6').addEventListener('click', function(){
+   document.getElementById('contenido').scrollIntoView();
+});
+</script>
+</body>
+</html>
