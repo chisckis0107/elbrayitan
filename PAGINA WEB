@@ -1,1 +1,60 @@
-<DOCTYPE>
+<DOCTYPE html>
+<html>
+<head>
+<title> sac fenix</title>
+<link rel="stylesheet"type="text/css" href="style.css">
+</head>
+<body>
+<div id="portada">
+<C:\Users\steve\AppData\Local\Temp\119518ac-0dc3-49da-8ea8-5dae444e6b65_Prototipo de ordenador web financiera ilustraciones flat turquesa.zip.b65\11.png>
+</div>
+<button id="btn1">boton 1 </button>
+<button id="btn2">boton 2 </button>
+<button id="btn3">boton 3 </button>
+<button id="btn4">boton 4 </button>
+<button id="btn5">boton 5 </button>
+<button id="btn6">boton 6 </button>
+<div id="contenido">
+<C:\Users\steve\Downloads\IMAGEN.jpg>
+</div>
+</body>
+</html>
+#portada{
+<C:\Users\steve\AppData\Local\Temp\0ba05317-3860-4ad5-bb59-f6f76bc59118_Prototipo de ordenador web financiera ilustraciones flat turquesa.zip.118\10.png>
+<C:\Users\steve\AppData\Local\Temp\cfde29c3-3be8-40f4-8bbd-3e9d1f058d20_Prototipo de ordenador web financiera ilustraciones flat turquesa.zip.d20\12.png>
+}
+#btn1{
+C:\Users\steve\AppData\Local\Temp\41e0dc67-c060-49bc-893a-b24f4aa6bae3_Lienzo Meme Archivo Cuadrado Multicolor.zip.ae3\1.jpg
+}
+#btn2{
+C:\Users\steve\AppData\Local\Temp\50f26e06-ffbd-4504-915d-c582a36750fc_Lienzo Meme Archivo Cuadrado Multicolor.zip.0fc\2.jpg
+}
+#btn3{
+C:\Users\steve\AppData\Local\Temp\db8cee5c-3dc9-4a6a-846a-f02c0f8bb094_Lienzo Meme Archivo Cuadrado Multicolor.zip.094\3.jpg
+}
+#btn4{
+C:\Users\steve\AppData\Local\Temp\ca370dd5-7fb9-45fd-85c6-ceba6883f8bf_Lienzo Meme Archivo Cuadrado Multicolor.zip.8bf\4.jpg
+}
+#btn5{
+C:\Users\steve\AppData\Local\Temp\b166052b-b5e0-416a-90f3-933751fdad06_Lienzo Meme Archivo Cuadrado Multicolor.zip.d06\5.jpg
+}
+#btn6{
+C:\Users\steve\AppData\Local\Temp\8fe7a2ad-0e61-48d8-8479-ae06bc473096_Lienzo Meme Archivo Cuadrado Multicolor.zip.096\6.jpg
+}
+document.getElementbyid('btn1').addeventlistener('click'function(){document.getElemnetByid('contenido').scrollintoview();
+});
+
+document.getElementbyid('btn2').addeventlistener('click'function(){document.getElemnetByid('contenido').scrollintoview();
+});
+
+document.getElementbyid('btn3').addeventlistener('click'function(){document.getElemnetByid('contenido').scrollintoview();
+});
+
+document.getElementbyid('btn4').addeventlistener('click'function(){document.getElemnetByid('contenido').scrollintoview();
+});
+
+document.getElementbyid('btn5').addeventlistener('click'function(){document.getElemnetByid('contenido').scrollintoview();
+});
+
+document.getElementbyid('btn6').addeventlistener('click'function(){document.getElemnetByid('contenido').scrollintoview();
+});
