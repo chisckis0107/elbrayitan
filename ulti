@@ -8,7 +8,7 @@
 </head>
 <body>
 <div id="portada">
-<img src="ruta_de_tu_imagen_1.png">
+<img src="C:\Users\steve\AppData\Local\Temp\119518ac-0dc3-49da-8ea8-5dae444e6b65_Prototipo de ordenador web financiera ilustraciones flat turquesa.zip.b65\11.png>
 </div>
 <button id="btn1">boton 1 </button>
 <button id="btn2">boton 2 </button>
@@ -17,7 +17,8 @@
 <button id="btn5">boton 5 </button>
 <button id="btn6">boton 6 </button>
 <div id="contenido">
-<img src="ruta_de_tu_imagen_2.jpg">
+<img src="C:\Users\steve\Downloads\IMAGEN.jpg">
+
 </div>
 <script>
 document.getElementById('btn1').addEventListener('click', function(){
